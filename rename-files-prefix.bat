@@ -2,7 +2,7 @@
 setlocal enabledelayedexpansion
 
 set "folder=."
-set "prefix=image"
+set "prefix=Srinivas"
 set /a counter=1
 
 for %%f in ("%folder%\*.jpg") do (
